@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilentNetwork", "SilentNetwork\SilentNetwork.csproj", "{09D6ED4E-B40C-4445-816C-4D559699FF60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09D6ED4E-B40C-4445-816C-4D559699FF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D6ED4E-B40C-4445-816C-4D559699FF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D6ED4E-B40C-4445-816C-4D559699FF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D6ED4E-B40C-4445-816C-4D559699FF60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75DF5541-5B48-4B25-A461-3C1A4914D117}
+	EndGlobalSection
+EndGlobal
